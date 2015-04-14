@@ -827,9 +827,12 @@ p {
 
 }
 .logs{
-	color: yellow !important;
+	color: #fff !important;
 	font-size: 43px !important;
-	padding: 15px 20px !important;
+	padding: 20px !important;
+}
+.logs span{
+    color: #ff0 !important;
 }
 /*
 4 Responsible
